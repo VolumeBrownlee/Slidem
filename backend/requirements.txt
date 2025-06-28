@@ -1,0 +1,6 @@
+openai
+langchain
+langchain-community
+weaviate-client==3.24.2
+matplotlib==3.7.2
+python-dotenv

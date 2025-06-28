@@ -1,0 +1,166 @@
+# Research Presentation Visual Best Practices Guide
+
+## Evidence-Based Design Principles
+
+### Core Cognitive Psychology Principles
+
+**1. Redundancy Principle**
+- People learn better from graphics and narration than from graphics, narration, and printed text
+- Avoid duplicating spoken content with on-screen text
+- Use either images OR text, not both simultaneously (labels are acceptable)
+
+**2. Temporal Contiguity Principle**
+- Present corresponding words and pictures simultaneously
+- Make objects appear only when mentioned in your narration
+- Build slides progressively rather than showing all content at once
+
+**3. Signaling Principle**
+- Add visual cues to highlight essential material organization
+- Use arrows, circles, or pointers to draw attention to important details
+- Guide learners' attention to reduce cognitive overload
+
+### Text and Typography Guidelines
+
+**Font Selection:**
+- Use sans serif fonts for better readability
+- Choose large font sizes (minimum 30pt for presentations)
+- Avoid italics, underlining, and all capital letters
+- Use bold instead of underlining for emphasis
+- Limit to 2-3 fonts maximum (header, body, accent)
+
+**Text Amount:**
+- Follow the "Rule of Four": Maximum 4 bullets per slide
+- Each bullet should contain maximum 4 concepts
+- Count verbs and nouns to measure information units
+- Example: "Use four bullets per slide" = 3 units (use, bullets, slide)
+- Aim for 300-800 words total for poster presentations
+
+**Visual Hierarchy:**
+- Make reading order obvious through font size, color, and weight
+- Largest/boldest elements should be most important
+- Create clear information flow from primary to secondary content
+
+### Image and Visual Guidelines
+
+**Image Usage:**
+- Use high-resolution, royalty-free images
+- Never enlarge images beyond 100% of original size
+- Favor images over text when possible (images are more memorable)
+- Use representational, organizational, or explanative images only
+- Avoid decorative images that don't support learning objectives
+
+**Data Visualization:**
+- Present data using charts and diagrams instead of text lists
+- Select only data most relevant to your points
+- Make complex data visually compelling and digestible
+- Use visual representations for statistics whenever possible
+
+### Color and Design Principles
+
+**Color Guidelines:**
+- Use color combinations accessible to those with visual impairments
+- Limit to 2-3 colors total (main colors plus accent)
+- Ensure high contrast between text and background
+- Test color combinations for accessibility
+- Use color purposefully to support content, not decoration
+
+**Spatial Design:**
+- Use grid systems for consistent alignment
+- Group similar elements along vertical and horizontal lines
+- Maintain consistent spacing between elements
+- Leave adequate white space for visual breathing room
+- Align similar items (headings, descriptions, images, icons)
+
+### Animation and Transitions
+
+**Animation Principles:**
+- Use animations only when absolutely necessary
+- Make objects appear when mentioned, dim when discussed
+- Avoid presentation-wide animations (flying titles, building text)
+- Use subtle effects like fade-ins rather than dramatic animations
+- Maintain consistency in animation style throughout
+
+**Progressive Disclosure:**
+- Build content one element at a time
+- Dim previous content to 25% opacity when moving to new points
+- Guide attention to current discussion topic
+- Reduce cognitive load by controlling information flow
+
+### Academic Poster Specific Guidelines
+
+**Size and Layout:**
+- Standard size: 4' wide x 3' high (landscape orientation)
+- Information should be readable from 10 feet away
+- Use meaningful mixture of text, tables, graphs, and pictures
+- Organize content for logical flow and easy scanning
+
+**Content Organization:**
+- Include clear sections: Introduction, Methods, Results, Conclusions
+- Use consistent formatting throughout sections
+- Balance text and visual elements
+- Make key findings immediately apparent
+
+### Research-Specific Considerations
+
+**Scientific Accuracy:**
+- Ensure all visual representations accurately reflect data
+- Use appropriate chart types for data being presented
+- Include proper citations and attributions
+- Maintain scientific rigor in visual simplification
+
+**Accessibility:**
+- Add alt text to all images in distributed presentations
+- Use color combinations that work for colorblind viewers
+- Ensure font sizes are large enough for visual impairments
+- Provide alternative formats when necessary
+
+### Technical Presentation Guidelines
+
+**Equipment Preparation:**
+- Test equipment before presentation
+- Bring backup files (flash drive, printouts)
+- Know your presentation setup requirements
+- Plan for potential technical difficulties
+
+**Delivery Integration:**
+- Design slides as part of larger performance (pictures, text, spoken words)
+- Remember slides support your narrative, don't replace it
+- Practice with slides to ensure smooth integration
+- Use presenter notes rather than reading from slides
+
+### Common Mistakes to Avoid
+
+**Visual Overload:**
+- Too much text on single slides
+- Multiple competing visual elements
+- Overuse of animations and transitions
+- Cluttered layouts without clear hierarchy
+
+**Accessibility Issues:**
+- Poor color contrast
+- Font sizes too small
+- Missing alt text for images
+- Inaccessible color-only information coding
+
+**Content Problems:**
+- Decorative images that distract from learning
+- Redundant text that duplicates narration
+- Information not directly supporting learning objectives
+- Poor organization of complex information
+
+### Quality Assurance Checklist
+
+**Before Finalizing:**
+- [ ] All fonts are sans serif and minimum 30pt
+- [ ] Maximum 4 bullets per slide with 4 concepts each
+- [ ] High contrast between text and background
+- [ ] Images are high-resolution and support content
+- [ ] Consistent color scheme (2-3 colors maximum)
+- [ ] Progressive disclosure animations in place
+- [ ] Alt text added to all images
+- [ ] Content readable from appropriate distance
+- [ ] Backup files prepared
+- [ ] Presentation tested on target equipment
+
+**Design Philosophy:**
+Remember that effective research presentations should facilitate learning and knowledge transfer, not impress with visual effects. Every design choice should serve the goal of clear communication and audience understanding.
